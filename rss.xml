@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Champagne The Author]]></title>
         <description><![CDATA[Champagne The Author]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/champagne-the-author/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 18:17:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 18:18:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/champagne-the-author/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Champagne Couture Collection: Trendy Tees for all of your needs!]]></title>
+            <description><![CDATA[<article><h1>Champagne Couture Collection: Trendy Tees for all of your needs!</h1><p>couture, fashion, t-shirts, trendy, quotes, sayings, sarcastic, sexy champagne, precious</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f700199f4f11606f978a8eb3b702df0a88761623.png"></article>]]></description>
+            <link>http://champagnecouture.spreadshirt.com/</link>
+            <guid isPermaLink="false">4d4c8ba6-896e-4370-90fd-9e0e1954b483</guid>
+            <pubDate>Fri, 20 May 2016 18:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Robot Check]]></title>
             <description><![CDATA[<article><h1>Robot Check</h1><p>Sorry, we just need to make sure you're not a robot. For best results, please make sure your browser is accepting cookies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a568d01bfd427c446d25c07dc6b5c11b39c316.jpg"></article>]]></description>
